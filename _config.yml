@@ -1,0 +1,23 @@
+name: Duce
+favicon: null
+layout_spectrum: 0.7657167969737202
+typography_spectrum: 0.2832121942192316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.30684368731454015
+  lightness: 0.558406934607774
+  saturation: 0.0747438152320683
+  rhythmicContrast: 0.5561473513953388
+purpose: []
